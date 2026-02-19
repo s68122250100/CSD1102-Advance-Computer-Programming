@@ -1,7 +1,7 @@
 # Assignment Title: Rescue Robot System (Interface + Composition)
 
 ## Student Information
-- Name: Suteekan Saengaruh
+- Name: Suteekan Saengarun
 - Student ID: [68122250100]
 - Submission Date: [19/02/2026]
 
